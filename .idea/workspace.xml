@@ -4,14 +4,10 @@
     <list default="true" id="805b3296-9bbb-4bea-a441-35e49394a066" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../JUnit/src/test/CalculoTestTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Mega/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemplo_maven/megasena/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JUnit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnit/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JUnit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnit/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JUnit/JUnit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnit/JUnit.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JUnit/src/test/CalculoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnit/src/test/CalculoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Megasena.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Megasena.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Robotica" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../receita" beforeDir="false" afterPath="$PROJECT_DIR$/../receita" afterDir="false" />
     </list>
