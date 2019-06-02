@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class App {
     public static int getNumero(){
-        return (int) (Math.random() *60+1);
+        return (int) (Math.random() *60+1); // Randomico
     }
     public static int[] getJogo(){
         int[] jogo = new int[6];
